@@ -24,5 +24,7 @@ public class UML {
 //	# 클객컴 배복패
 	
 //	5) 행위, 동적 다이어그램(Diagram) ★★
-//	- 유스케이스, 스퀀스
+//	- 유스케이스, 스퀀스, 커뮤니케이션 (Communication, 협업), 상태 (Status), 활동(Activity)
+//	상호작용 개요(Interaction Overview), 타이밍(timing), (다이어그램 Diagram)
+//	# 유시커 상활호타
 }
