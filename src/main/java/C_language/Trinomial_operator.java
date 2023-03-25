@@ -9,6 +9,7 @@ public class Trinomial_operator {
 //	int a = 10 > 5 ? 10 : 5;
 //	printf("%d", a);
 	
+//	답 : 40
 	
 	
 }
