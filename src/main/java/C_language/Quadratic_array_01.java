@@ -1,6 +1,6 @@
 package C_language;
 
-public class Quadratic_array {
+public class Quadratic_array_01 {
 
 	
 	
